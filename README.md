@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gulab 👋
+🎓 Computer Engineering Student  
+💻 Passionate about Web Development & JavaScript  
+🌱 Currently learning React & Node.js  
+📫 Connect with me: [Instagram](https://www.instagram.com/codewithgulab)
 
-<!--
-**CodeWithGulab/CodeWithGulab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies I Use
+- HTML, CSS, JavaScript
+- Git & GitHub
+- React (learning)
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- [Tic-Tac-Toe Game](https://github.com/CodeWithGulab/tic-toc-toe)
+- [Stone Paper Scissor](https://github.com/CodeWithGulab/stone-paper-scissor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Gulab's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=radical)
