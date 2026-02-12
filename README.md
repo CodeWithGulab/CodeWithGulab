@@ -2,7 +2,7 @@
 🎓 Computer Engineering Student  
 💻 Passionate about Web Development & JavaScript  
 🌱 Currently learning React & Node.js  
-📫 Connect with me: [Instagram](https://www.instagram.com/codewithgulab)
+📫 Connect with me: [Instagram](https://www.instagram.com/mrparmar_175)
 
 ## 🔧 Technologies I Use
 - HTML, CSS, JavaScript
