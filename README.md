@@ -12,6 +12,7 @@
 ## 📂 Featured Projects
 - [Tic-Tac-Toe Game](https://github.com/CodeWithGulab/tic-toc-toe)
 - [Stone Paper Scissor](https://github.com/CodeWithGulab/stone-paper-scissor)
+- [Personal Portfolio](https://codewithgulab.github.io/)
 
 ## 📈 GitHub Stats
 ![Gulab's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=radical)
