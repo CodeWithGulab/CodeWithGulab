@@ -15,4 +15,8 @@
 - [Personal Portfolio](https://codewithgulab.github.io/)
 
 ## 📈 GitHub Stats
-[![Gulab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=radial)](https://github.com/CodeWithGulab)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=radial" alt="Gulab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithGulab&layout=compact&theme=radial" alt="Top Languages" />
+</p>
