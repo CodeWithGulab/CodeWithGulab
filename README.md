@@ -15,12 +15,7 @@
 - [Personal Portfolio](https://codewithgulab.github.io/)
 - [🚗 Mahee Tour & Travels](https://maheetourandtravels.netlify.app/) – Responsive Car Booking Website ([Source Code](https://github.com/CodeWithGulab/Mahee-Tour-And-Travels))
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=tokyonight" alt="Gulab's GitHub Stats" />
-  <br/><br/>
-  <img src="https://readme-streak-stats.herokuapp.com/?user=CodeWithGulab&theme=tokyonight" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithGulab&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=CodeWithGulab&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=CodeWithGulab&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeWithGulab&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
