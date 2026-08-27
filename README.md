@@ -13,6 +13,9 @@
 - [Tic-Tac-Toe Game](https://github.com/CodeWithGulab/tic-toc-toe)
 - [Stone Paper Scissor](https://github.com/CodeWithGulab/stone-paper-scissor)
 - [Personal Portfolio](https://codewithgulab.github.io/)
-- - [🚗 Mahee Tour & Travels](https://maheetourandtravels.netlify.app/) – Responsive Car Booking Website ([Source Code](https://github.com/CodeWithGulab/Mahee-Tour-And-Travels))
+- [🚗 Mahee Tour & Travels](https://maheetourandtravels.netlify.app/) – Responsive Car Booking Website ([Source Code](https://github.com/CodeWithGulab/Mahee-Tour-And-Travels))
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+![Gulab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=dark)
+
+![Streak Stats](https://readme-streak-stats.herokuapp.com/?user=CodeWithGulab&theme=dark)
