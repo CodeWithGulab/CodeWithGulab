@@ -2,7 +2,7 @@
 🎓 Computer Engineering Student  
 💻 Passionate about Web Development & JavaScript  
 🌱 Currently learning React & Node.js  
-📫 Connect with me: [Instagram](https://www.instagram.com/mrparmar_175)
+📫 Connect with me:[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mrparmar_175)
 
 ## 🔧 Technologies I Use
 - HTML, CSS, JavaScript
