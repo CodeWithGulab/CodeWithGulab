@@ -80,26 +80,6 @@ Responsive tour and travel website with a car booking interface.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithGulab&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithGulab&theme=cobalt&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithGulab&layout=compact&theme=cobalt&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithGulab&theme=github-compact&hide_border=true&area=true" width="95%"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
